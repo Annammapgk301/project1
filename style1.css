@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url('legth.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.content{
+    margin-top:10%;
+}
+#head{
+    margin-top:20%;
+    margin-left:45%;
+}
+#de{
+    color: white;
+}
+#ds{
+    color: white;
+}
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color:transparent;
+}
+
+.no-outline {
+    outline: none;
+}
+
+.btn {
+    border: 2px solid black;
+    background-color:transparent;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    width:15%;
+}
+
+.success {
+    border-color:darkgreen;
+    color:darkgreen-;
+}
